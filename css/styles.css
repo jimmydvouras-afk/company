@@ -40,15 +40,14 @@
 }
 .hero {
     display: flex;
-    margin-left: 10%;
-    justify-content: start;
-    gap: 5px;
+    align-self: center;
+    gap: 25px;
+    margin: 5%;
 }
 
  .hero-image {
     flex: 1;
     display: flex;
-    justify-content: flex-end;
 }
 
 .hero-image img {
