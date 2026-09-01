@@ -73,3 +73,13 @@
     font-size: 18px;
     color: #E5E7EB;
 }
+
+.hero-button {
+    color: white;
+    background-color: #3882F6;
+    display: inline-flex;
+    border-radius: 6px;
+    font-weight: bold;
+    padding-left: 2%;
+    padding-right: 2%;
+}
