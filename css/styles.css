@@ -189,3 +189,50 @@ body {
 .thor {
     margin-left: 40%;
 }
+
+.row4 {
+    height: 18.3%;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    padding: 5%;
+}
+
+.cta {
+    display: flex;
+    background-color: #3882F6;
+    color: white;
+    gap: 200px;
+    border-radius: 6px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 5%;
+    padding-right: 9%;
+    white-space: nowrap;
+}
+
+.time {
+    font-size: 24px;
+}
+
+.time p {
+    margin-bottom: 0;
+}
+
+.product p {
+    margin-top: 0;
+}
+
+.cta-button {
+    justify-self: flex-end;
+    align-self: center;
+    border: 2px solid white;
+    border-radius: 6px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.cta-button p {
+    margin: 8px;
+    white-space: nowrap;
+}
